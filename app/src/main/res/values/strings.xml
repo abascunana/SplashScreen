@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SplashScreenAndroid</string>
+    <string name="top_text">Juegos</string>
+    <string name="bottom_text">Android</string>
 </resources>
